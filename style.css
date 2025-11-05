@@ -38,7 +38,7 @@ body{font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica
 @media(max-width:720px){.header-inner{flex-direction:column; gap:8px}.nav{display:flex; gap:6px; flex-wrap:wrap}}
 .app-icon {
   width: 48px;        /* size of the icon */
-  height: 48px;
+  height: 58px;
   vertical-align: middle; /* align with text */
   margin-right: 12px; /* space between icon and title */
   border-radius: 8px; /* optional rounded corners */
